@@ -1,3 +1,17 @@
+## TOPLEVEL_CATEGORY
+
+* cpprefjp[index]
+* 処理系[implementation]
+* コンパイラの実装状況[implementation-status]
+* メーリングリスト[mailing-lists]
+* 外部ライブラリ[third_party_library]
+* スタイル[working_style]
+* テーマ別解説[article]
+* 編集者向け資料[editors_doc]
+* 言語機能[lang]
+* リファレンス[reference]
+
+
 ## GLOBAL_QUALIFY_LIST
 
 * implementation-defined[italic]
