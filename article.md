@@ -1,3 +1,5 @@
+## GLOBAL_QUALIFY_LIST
+
 * implementation-defined[italic]
 * SFINAE[link /lang/cpp11/sfinae_expressions.md]
 * thread_local[link /lang/cpp11/thread_local_storage.md]
