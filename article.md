@@ -6,8 +6,8 @@
 * メーリングリスト[mailing-lists]
 * 外部ライブラリ[third_party_library]
 * スタイル[working_style]
-* テーマ別解説[article]
 * 編集者向け資料[editors_doc]
+* テーマ別解説[article]
 * 言語機能[lang]
 * リファレンス[reference]
 
