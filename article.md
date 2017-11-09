@@ -1,15 +1,15 @@
 ## TOPLEVEL_CATEGORY
 
 * cpprefjp[index]
+* リファレンス[reference]
+* 言語機能[lang]
 * 処理系[implementation]
 * コンパイラの実装状況[implementation-status]
-* メーリングリスト[mailing-lists]
 * 外部ライブラリ[third_party_library]
+* テーマ別解説[article]
+* メーリングリスト[mailing-lists]
 * スタイル[working_style]
 * 編集者向け資料[editors_doc]
-* テーマ別解説[article]
-* 言語機能[lang]
-* リファレンス[reference]
 
 
 ## GLOBAL_QUALIFY_LIST
