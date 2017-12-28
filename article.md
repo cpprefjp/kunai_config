@@ -5,6 +5,8 @@
 * 言語機能[lang]
 * 処理系[implementation]
 * コンパイラの実装状況[implementation-status]
+* C++国際標準規格[international-standard.md]
+* 標準規格と処理系[implementation-compliance.md]
 * 外部ライブラリ[third_party_library]
 * テーマ別解説[article]
 * メーリングリスト[mailing-lists]
