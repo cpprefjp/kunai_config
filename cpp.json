@@ -35,6 +35,7 @@
     ["op_less_equal", "operator<=(a, b)"],
     ["op_greater", "operator>(a, b)"],
     ["op_greater_equal", "operator>=(a, b)"],
+    ["op_compare_3way", "operator<=>(a, b)"],
     ["op_increment", "operator++"],
     ["op_decrement", "operator--"],
     ["op_unary_plus", "operator+"],
