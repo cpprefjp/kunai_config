@@ -9,7 +9,7 @@
 * 標準規格と処理系[implementation-compliance]
 * 外部ライブラリ[third_party_library]
 * テーマ別解説[article]
-* メーリングリスト[mailing-lists]
+* コミュニティリスト[mailing-lists]
 * スタイル[working_style]
 * 編集者向け資料[editors_doc]
 
