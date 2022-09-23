@@ -2,6 +2,7 @@
 
 * cpprefjp[index]
 * リファレンス[reference]
+* モジュール[module]
 * 言語機能[lang]
 * 処理系[implementation]
 * コンパイラの実装状況[implementation-status]
