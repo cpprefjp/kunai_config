@@ -12,7 +12,7 @@
 * テーマ別解説[article]
 * コミュニティリスト[mailing-lists]
 * スタイル[working_style]
-* 編集者向け資料[editors_doc]
+* cpprefjpを編集するには[start_editing]
 
 
 ## GLOBAL_QUALIFY_LIST
