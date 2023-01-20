@@ -12,7 +12,7 @@
 * テーマ別解説[article]
 * コミュニティリスト[mailing-lists]
 * スタイル[working_style]
-* cpprefjpを編集するには[start_editing]
+* はじめてのコントリビュート[start_editing]
 * 編集方針[edit_policy]
 
 
