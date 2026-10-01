@@ -4,6 +4,8 @@
 * リファレンス[reference]
 * モジュール[module]
 * 言語機能[lang]
+* 概念・前提知識ガイド[guide]
+* 標準ライブラリ要件[requirements]
 * 処理系[implementation]
 * コンパイラの実装状況[implementation-status]
 * C++国際標準規格[international-standard]
